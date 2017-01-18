@@ -1,0 +1,18 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.we-are-open-hours {
+    text-align: right;
+    padding-right:5px;
+}
+.we-are-open-days{
+    padding: 5px 15px;
+}
+.we-are-open-row.we-are-open-current{
+    background: orange;
+}
+.widget_we_are_open_widget table{
+    margin: auto;
+}
